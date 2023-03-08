@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/RandomNumberGenerator.h
+cmath
+-
+
+/home/gabs/Pulpit/spd/src/main.cpp
+iostream
+-
+cmath
+-
+stdio.h
+-
+RandomNumberGenerator.h
+/home/gabs/Pulpit/spd/src/RandomNumberGenerator.h
+

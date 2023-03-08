@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/spd.dir/src/main.cpp.o  -o spd 

@@ -1,0 +1,3 @@
+/home/gabs/Pulpit/spd/build/CMakeFiles/rebuild_cache.dir
+/home/gabs/Pulpit/spd/build/CMakeFiles/edit_cache.dir
+/home/gabs/Pulpit/spd/build/CMakeFiles/zajecia0.dir

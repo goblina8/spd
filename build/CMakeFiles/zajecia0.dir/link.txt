@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zajecia0.dir/src/functions.cpp.o CMakeFiles/zajecia0.dir/src/main.cpp.o  -o zajecia0 
